@@ -1,6 +1,6 @@
 #include<iostream>
 #include<conio.h>
-#include<Windows.h>
+#include<windows.h>
 using namespace std;
 /*
 iostream: Standard Input and Output Library of C++..
